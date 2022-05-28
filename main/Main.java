@@ -61,7 +61,9 @@ public class Main {
                     showMenu();
                     break;
                 case 8:
-                    cont = false;
+                    Manage_declaration.payroll();
+                    showMenu();
+                    break;
                 case 9:
                     cont = false;
             }

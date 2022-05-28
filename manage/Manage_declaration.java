@@ -189,5 +189,8 @@ public class Manage_declaration {
             showList();
         }
     }
+    public static void payroll(){
+
+    }
 }
 
